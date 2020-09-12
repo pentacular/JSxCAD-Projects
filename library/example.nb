@@ -3,7 +3,7 @@ import { GearProfile } from 'https://gitcdn.link/cdn/jsxcad/JSxCAD/master/librar
 const profile = GearProfile(6, { mmPerTooth: 12 });
 
 md`
-Cutting a gear profile without overcut.
+Fish
 `;
 
 profile
@@ -24,7 +24,7 @@ profile
   .topView();
 
 md`
-Note QQ that the concave corners are not cut completely, but the shape is not cut into.
+Note XX that the concave corners are not cut completely, but the shape is not cut into.
 `;
 
 md`
